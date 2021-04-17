@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://hemachand.ml](https://hemachand.ml)
+- [http1 vs http2](https://hemachand.ml/http1/)
 
 - 📫 How to reach me **hemachandsai@gmail.com**
 
