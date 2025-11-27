@@ -4,14 +4,15 @@
 <p>
   I love working across the stack — from frontend frameworks like Angular, React, and Vue.js to resilient backend systems built with Node.js, Go, and cloud-native architectures. I have solid exposure to AWS, serverless patterns, automation, and designing systems that scale reliably under real-world workloads. 
   
-  Alongside engineering, I’m deeply passionate about automation & web application security, understanding how things break, hardening systems, and building safer software. I'm always experimenting with new ideas, building tools, and learning deeply by doing.
+  Alongside engineering, I’m deeply passionate about automation,web application security, building blockchains/decentralized systems, smart contracts, understanding how things break, hardening systems, and building safer software. I'm always experimenting with new ideas, building tools, and learning deeply by doing.
 </p>
 
 ---
 
 ### 🚀 Currently
 - Exploring Modern Web Application Vulnerabilities
-- Exploring Modern web performance & HTTP protocols  
+- Exploring Modern web performance & HTTP protocols
+- Exploring Smart Contract Development for EVM  
 - Building automated tooling & security scanners  
 
 ---
@@ -26,10 +27,11 @@
 - Build **cross-platform mobile apps** using **Flutter/Dart** with clean architecture & performant UI
 - Build automation, CI/CD(both web and mobile, mobile via fastlane), and developer tooling
 - Love building things for performance, debugging issues & exploring modern cloud architectures.
+- **Decentralized Systems & Smart Contract Engineering** — Good understanding of Blockchain principles, Ethereum, Solidity, EVM internals, contract security, and designing scalable, trust-minimized architectures.
 
 ### **Core Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,python,bash,dart,linux,aws,docker,p5js,postgres,githubactions" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,python,solidity,bash,dart,linux,aws,docker,p5js,postgres,githubactions" />
 </p>
 
 ---
