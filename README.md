@@ -27,7 +27,7 @@
 - Build **cross-platform mobile apps** using **Flutter/Dart** with clean architecture & performant UI
 - Build automation, CI/CD(both web and mobile, mobile via fastlane), and developer tooling
 - Love building things for performance, debugging issues & exploring modern cloud architectures.
-- **Decentralized Systems & Smart Contract Engineering** — Good understanding of Blockchain principles, Ethereum, Solidity, EVM internals, contract security, and designing scalable, trust-minimized architectures.
+- Building **Decentralized Systems & Smart Contract Engineering** — Good understanding of Blockchain principles, Ethereum, Solidity, EVM internals, contract security, and designing scalable, trust-minimized architectures.
 
 ### **Core Development**
 <p align="left">
