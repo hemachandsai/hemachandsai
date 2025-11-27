@@ -1,27 +1,59 @@
-<h1 align="left">Hi there, I'm hemachandsai 👋</h1>
-<h3 align="left">A Passionate Developer</h3>
+<h1 align="left">👋 Hello there, I'm Sai</h1>
+<h3 align="left">🚀 Passionate Developer • 🧠 Learner • 🛠 Builder</h3>
 
-- 🌱 I’m currently learning **React and Vue.js**
-
-- 👨‍💻 All of my projects are available at [https://hemachand.ml](https://hemachand.ml)
-- [http1 vs http2](https://hemachand.ml/http1/)
-
-- 📫 How to reach me **hemachandsai@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/hemachandsai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hemachandsai" height="30" width="30" /></a>
-<a href="https://twitter.com/hemachandsai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hemachandsai" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/hemachandsai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hemachandsai" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/hemachandsai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hemachandsai" height="30" width="30" /></a>
-<a href="https://fb.com/hemachandsai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hemachandsai" height="30" width="30" /></a>
-<a href="https://instagram.com/hemachandsai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hemachandsai" height="30" width="30" /></a>
+<p>
+  I love working across the stack — from frontend frameworks like Angular, React, and Vue.js to resilient backend systems built with Node.js, Go, and cloud-native architectures. I have solid exposure to AWS, serverless patterns, automation, and designing systems that scale reliably under real-world workloads. 
+  
+  Alongside engineering, I’m deeply passionate about automation & web application security, understanding how things break, hardening systems, and building safer software. I'm always experimenting with new ideas, building tools, and learning deeply by doing.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="25" height="25"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="25"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="25" height="25"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="25" height="25"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="25" height="25"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="25" height="25"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="25" height="25"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="25" height="25"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="25" height="25"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> </a> </p>
+---
 
---- 
+### 🚀 Currently
+- Exploring Modern Web Application Vulnerabilities
+- Exploring Modern web performance & HTTP protocols  
+- Building automated tooling & security scanners  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemachandsai&show_icons=true&locale=en&layout=compact&hide_border=true" alt="hemachandsai" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hemachandsai&show_icons=true&&hide_border=truelocale=en" alt="hemachandsai" /></p>
+---
+
+### ⚡ Skills at a Glance
+
+- Strong in **JavaScript / TypeScript** with deep experience in **Node.js**
+- Build **resilient backend systems** — serverless, event-driven, microservices
+- Hands-on with **AWS** (Lambda, API Gateway, Dynamo/Mongo, IAM, S3, CloudFront, etc.)
+- Experience in **Web App Security**, pentesting, and supply-chain analysis
+- Skilled with **Go, Python, Bash** for tooling & automations
+- Build **cross-platform mobile apps** using **Flutter/Dart** with clean architecture & performant UI
+- Build automation, CI/CD(both web and mobile, mobile via fastlane), and developer tooling
+- Love building things for performance, debugging issues & exploring modern cloud architectures.
+
+### **Core Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,python,bash,dart,linux,aws,docker,p5js,postgres,githubactions" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hemachandsai-atluri-37449282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hemachandsai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hemachandsai&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemachandsai&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">✨ Always building, always learning ✨</p>
