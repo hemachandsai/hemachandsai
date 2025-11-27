@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello there, I'm Sai</h1>
-<h3 align="left">🚀 Passionate Developer • 🧠 Learner • 🛠 Builder</h3>
+<h3 align="left">🚀 Passionate Developer • 🧠 Learner • 🛠 Builder • 🔐 Security Enthusiast</h3>
 
 <p>
   I love working across the stack — from frontend frameworks like Angular, React, and Vue.js to resilient backend systems built with Node.js, Go, and cloud-native architectures. I have solid exposure to AWS, serverless patterns, automation, and designing systems that scale reliably under real-world workloads. 
